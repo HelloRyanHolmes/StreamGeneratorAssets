@@ -1,0 +1,35 @@
+{
+  "collections": [
+    {
+      "name": "Tryan",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/PearlsGenerator/Tryan-Assets/refs/heads/main/",
+      "attributes": [
+        {
+          "attributeName": "Background",
+          "maxAttributes": 10,
+          "OrderImages": 1
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 2,
+          "OrderImages": 2
+        },
+        {
+          "attributeName": "Outfit",
+          "maxAttributes": 41,
+          "OrderImages": 3
+        },
+        {
+          "attributeName": "Head",
+          "maxAttributes": 62,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "Hand",
+          "maxAttributes": 60,
+          "OrderImages": 5
+        }
+      ]
+    }
+  ]
+}
